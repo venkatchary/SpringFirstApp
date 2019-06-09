@@ -13,7 +13,7 @@ public class Test {
 		Object obj= ac.getBean("empOb");
 		Employee e= (Employee)obj;
 		System.out.println(e);
-		
+		System.out.println("DOne");
 
 	}
 
