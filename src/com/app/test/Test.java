@@ -16,6 +16,8 @@ public class Test {
 		System.out.println("DOne");
 		System.out.println("Finish");
 		System.out.println("Completed");
+		System.out.println("cleared");
+
 
 	}
 
